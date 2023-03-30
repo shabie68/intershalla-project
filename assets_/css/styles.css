@@ -1,0 +1,20 @@
+.mignon-container, .mignon-tech {
+	display: flex
+}
+
+
+.mignon-container {
+	padding: 0 10px 10px 10px;
+}
+.mignon-dashboard {
+	width: 20%;
+}
+
+.mignon-tech img{
+	width: 30%;
+}
+
+.mignon-tech p {
+	font-size: 20px;
+	font-weight: 800;
+}
